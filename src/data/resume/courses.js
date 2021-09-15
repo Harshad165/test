@@ -1,6 +1,6 @@
 const courses = [
   {
-    title: 'Big Data Analysis',
+    title: 'Big Data',
     number: '1',
     university: 'Udemy',
   },
